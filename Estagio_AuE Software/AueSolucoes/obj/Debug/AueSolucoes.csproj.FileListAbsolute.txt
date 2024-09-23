@@ -1,0 +1,20 @@
+D:\Tentativas de Estagio\Estagio_AuE Software\AueSolucoes\bin\Debug\AueSolucoes.exe.config
+D:\Tentativas de Estagio\Estagio_AuE Software\AueSolucoes\bin\Debug\AueSolucoes.exe
+D:\Tentativas de Estagio\Estagio_AuE Software\AueSolucoes\bin\Debug\AueSolucoes.pdb
+D:\Tentativas de Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.csproj.AssemblyReference.cache
+D:\Tentativas de Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.Form1.resources
+D:\Tentativas de Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.Properties.Resources.resources
+D:\Tentativas de Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.csproj.GenerateResource.cache
+D:\Tentativas de Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.csproj.CoreCompileInputs.cache
+D:\Tentativas de Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.exe
+D:\Tentativas de Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.pdb
+D:\Estagio\Estagio_AuE Software\AueSolucoes\bin\Debug\AueSolucoes.exe.config
+D:\Estagio\Estagio_AuE Software\AueSolucoes\bin\Debug\AueSolucoes.exe
+D:\Estagio\Estagio_AuE Software\AueSolucoes\bin\Debug\AueSolucoes.pdb
+D:\Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.csproj.AssemblyReference.cache
+D:\Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.Form1.resources
+D:\Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.Properties.Resources.resources
+D:\Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.csproj.GenerateResource.cache
+D:\Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.csproj.CoreCompileInputs.cache
+D:\Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.exe
+D:\Estagio\Estagio_AuE Software\AueSolucoes\obj\Debug\AueSolucoes.pdb
